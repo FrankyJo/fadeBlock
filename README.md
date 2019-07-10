@@ -1,4 +1,4 @@
-<h1>fadeBlock - анимированное появление блоков</h1>
+<h1>fadeBlock - плагин анимированного появление блоков</h1>
 
 Автор плагина: <a href="https://www.denyspopov.com">Denys Popov</a>
 
