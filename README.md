@@ -35,4 +35,71 @@
       const fadeOptions = new Options(animationTime, pixelsFromBottom, reverseFade);
   </code>
 </pre>
+<table>
+  <tr>
+    <th>
+      Параметры
+    </th>
+    <th>
+      Описание
+    </th>
+    <th>
+      Значение
+    </th>
+    <th>
+      default
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <b>animationTime</b>
+    </td>
+    <td>
+      Время анимации
+    </td>
+    <td>
+      1,2, 2.5,3 и т.д
+    </td>
+    <td>
+      1
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <b>pixelsFromBottom</b>
+    </td>
+    <td>
+      Отступ от низа экрана браузера
+    </td>
+    <td>
+      50, 100, 124 и т.д
+    </td>
+    <td>
+      0
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td>
+      <b>reverseFade</b>
+    </td>
+    <td>
+       Исчезновение блоков, если проскролить сайт обратно вверх
+    </td>
+    <td>
+      true / false
+    </td>
+    <td>
+      false
+    </td>
+  </tr>
+</table>
+Расшифровка на реальном примере:
+<code>const fadeOptions = new Options(1, 100, false);</code><br>
+<pre>
+-Время анимации 1 секунда
+-Появление блока будет происходить когда он будет находится на расстоянии 100 пикселей от низа экрана
+-При скролле вверх блоки исчезать не будут
+</pre>
 
+Если есть вопросы или предложения по работе плагина, пиши <a href="https://www.denyspopov.com" target="_blank">сюда</a>(contact) или <a href="mailto:popovdenys.web@gmail.com>сюда</a>
