@@ -102,4 +102,4 @@
 -При скролле вверх блоки исчезать не будут
 </pre>
 
-Если есть вопросы или предложения по работе плагина, пиши <a href="https://www.denyspopov.com" target="_blank">сюда</a>(contact) или <a href="mailto:popovdenys.web@gmail.com>сюда</a>
+Если есть вопросы или предложения по работе плагина, пишите <a href="mailto:popovdenys.web@gmail.com>на почту popovdenys@gmail.com</a>
