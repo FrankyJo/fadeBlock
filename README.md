@@ -1,5 +1,6 @@
-<img src="https://www.denyspopov.com/wp-content/themes/denyspopov/image/fade.gif" width="100%">
 <h1>fadeBlock - плагин анимированного появление блоков</h1>
+<img src="https://www.denyspopov.com/wp-content/themes/denyspopov/image/fade.gif" width="100%">
+
 
 Автор плагина: <a href="https://www.denyspopov.com">Denys Popov</a>
 
